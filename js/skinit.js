@@ -50,67 +50,100 @@ for (i=2; i<= 2048;){
 
 var css = JSS.toCSS({
     ".tile-2 .tile-inner": {
-        background:    skin[2]
+        background:    skin[2],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-4 .tile-inner": {
-        background:    skin[4]
+        background:    skin[4],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-8 .tile-inner": {
-        background:    skin[8]
+        background:    skin[8],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-16 .tile-inner": {
-        background:    skin[16]
+        background:    skin[16],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-32 .tile-inner": {
-        background:    skin[32]
+        background:    skin[32],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-64 .tile-inner": {
-        background:    skin[64]
+        background:    skin[64],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-128 .tile-inner": {
-        background:    skin[128]
+        background:    skin[128],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-256 .tile-inner": {
-        background:    skin[256]
+        background:    skin[256],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-512 .tile-inner": {
-        background:    skin[512]
+        background:    skin[512],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-1024 .tile-inner": {
-        background:    skin[1024]
+        background:    skin[1024],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
 var css = JSS.toCSS({
     ".tile-2048 .tile-inner": {
-        background:    skin[2048]
+        background:    skin[2048],
+	background_size: "90% 90% !important",
+	background_repeat: "no-repeat !important",
+	background_position: "center !important"
     }
 });
 createStyle(css);
