@@ -16,15 +16,15 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 images = {
-    2:  "http://lorempixel.com/200/200/cats/DOS/",
-    4:  "http://lorempixel.com/200/200/cats/CUATRO/",
-    8:  "http://lorempixel.com/200/200/cats/OCHO/",
-    16:  "http://lorempixel.com/200/200/cats/DIEZYSEIS/",
-    32:  "http://lorempixel.com/200/200/cats/TREINTAYDOS/",
-    64:  "http://lorempixel.com/200/200/cats/SESENTAYCUATRO/",
-    128:  "http://lorempixel.com/200/200/cats/CientoVeintyOcho/",
-    256:  "http://lorempixel.com/200/200/cats/DoscientosCincuentaYSeis/",
-    512:  "http://lorempixel.com/200/200/cats/QuinientosDoce/",
-    1024:  "http://lorempixel.com/200/200/cats/milVeinticuatro/",
-    2048:  "http://lorempixel.com/200/200/cats/dosmilCuarentayocho/"
+    2:		  "http://2048.creepypastas.com/img/2.png",
+    4:  	  "http://2048.creepypastas.com/img/4.png",
+    8:		  "http://2048.creepypastas.com/img/8.png",
+    16:		  "http://2048.creepypastas.com/img/16.png",
+    32:  	  "http://2048.creepypastas.com/img/32.png",
+    64:		  "http://2048.creepypastas.com/img/64.png",
+    128:	  "http://2048.creepypastas.com/img/128.png",
+    256:	  "http://2048.creepypastas.com/img/256.png",
+    512:	  "http://2048.creepypastas.com/img/512.png",
+    1024:	  "http://2048.creepypastas.com/img/1024.png",
+    2048:  	  "http://2048.creepypastas.com/img/2048.png"
 };
